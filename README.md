@@ -1,1 +1,1 @@
-# Minas
+# GrowCast
